@@ -9,7 +9,7 @@ Master Branch all the below Key Projects completed as part of Machine Learning:
     •	Modeling & Clustering text data with k-means
     •	Docs - Contain the Overall Summary document for all the projects.
 
-Each Project has its own folder and each folder is structered as below:
+Each Project has its own folder and each folder is structured as below:
     •	Code –  Source code for each project - consists of python files and any reference files.
     •	Data  - Data used in the project
     •	Docs -  Contains summary document for each project
