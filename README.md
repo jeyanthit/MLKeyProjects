@@ -1,4 +1,6 @@
-# Repository Name: MLKeyProjects - Machine Learning Key Projects
+#  Machine Learning Key Projects
+	Repository Name: MLKeyProjects 
+
 ## Cool Projects completed as part of Machine Learning:
 
 	•	Predicting house prices
@@ -9,7 +11,7 @@
 	•	Identifying safe loans with decision trees
 	•	Modeling & Clustering text data with k-means
 
-### Summary of all the above Projects - (Docs/Machine Learning Key Projects Summary.odt)
+#### Summary of all the above Projects - (Docs/Machine Learning Key Projects Summary.odt)
 
 #### Each Project has its own folder and each folder is structured as below:
 	    •	Code –  Source code for each project - consists of python files and any reference files.
