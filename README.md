@@ -17,6 +17,7 @@
 	    •	Code –  Source code for each project - consists of python files and any reference files.
 	    •	Data  - Data used in the project
 	    •	Docs -  Contains summary document for each project
+	    •	README.md
     
  ### Technologies: 
 		• Python
