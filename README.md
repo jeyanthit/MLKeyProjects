@@ -1,4 +1,4 @@
-# Table Of Contents
+# Table of Contents
 ## Repository Name: MLKeyProjects - Machine Learning Key Projects
 ## List of Key Projects completed as part of Machine Learning:
 
