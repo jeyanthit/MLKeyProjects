@@ -4,6 +4,7 @@ In many cases, it is good to think of data as belonging to more than one cluster
 With this in mind, we will use GraphLab Create tools to fit an LDA model to a corpus of Wikipedia articles and examine the results to analyze the impact of a mixed membership approach.
 
 In this project,
+
     •	  apply standard preprocessing techniques on Wikipedia text data
     •	  use GraphLab Create to fit a Latent Dirichlet allocation (LDA) model
     •	  explore and interpret the results, including topic keywords and topic assignments for a document
