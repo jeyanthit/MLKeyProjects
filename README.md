@@ -1,4 +1,5 @@
 #  Machine Learning Projects
+
 	Repository Name: MLKeyProjects 
 
 ## Cool Projects completed in Machine Learning:
@@ -11,12 +12,12 @@
 	•	Identifying safe loans with decision trees
 	•	Modeling & Clustering text data with k-means
 
-#### Summary of all the above Projects - (Docs/Machine Learning Key Projects Summary.odt)
+#### Documentation Summary of all the above Projects - (Docs/Machine Learning Key Projects Summary.odt)
 
 #### Each Project has its own folder and each folder is structured as below:
 	    •	Code –  Source code for each project - consists of python files and any reference files.
 	    •	Data  - Data used in the project (Since the data files are huge, its uplaoded as .gl files)
-	    •	Docs -  Contains summary document for each project
+	    •	Docs -  Documentation for each project
 	    •	README.md
     
  ### Technologies: 
@@ -25,4 +26,5 @@
 		• matplotlib
 
  ### Contributors:
+ 
  	Jeyanthi Thiagarajan <jeyjeev@gmail.com>
