@@ -1,6 +1,6 @@
 # MLKeyProjects
-Master Branch all the below Key Projects completed as part of Machine Learning:
-    •	Predicting house prices
+# Master Branch all the below Key Projects completed as part of Machine Learning:
+    * predicting house prices
     •	Retrieving Wikipedia Articles. Choosing features and metrics for nearest neighbor search
     •	Recommending songs with personalization
     •	Deep features for image retrieval nearest neighbor search
