@@ -28,3 +28,4 @@
  ### Contributors:
  
  	Jeyanthi Thiagarajan <jeyjeev@gmail.com>
+	(Machine Learning Specialist and Data Scientist)
