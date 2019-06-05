@@ -15,7 +15,7 @@
     •	Use the .apply() and .sum() methods on SFrames to compute functions of the data
 
 
-## Fitting Gaussian Mixture Models with EM
+## Step-2 Fitting Gaussian Mixture Models with EM
 Also we will:
      
       •	implement the EM algorithm for a Gaussian mixture model
