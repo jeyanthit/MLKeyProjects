@@ -22,6 +22,7 @@
  ### Technologies: 
 		• Python
 		• scikit-learn
+		• matplotlib
 
  ### Contributors:
  	Jeyanthi Thiagarajan <jeyjeev@gmail.com>
