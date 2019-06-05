@@ -2,7 +2,7 @@
 ## Predicting sentiment from product reviews
 #### Data from Amazon.com to predict whether the sentiments about a product (from its reviews) are positive or negative.
 
-    ## Explore logistic regression and feature engineering with existing GraphLab functions.
+##### Explore logistic regression and feature engineering with existing GraphLab functions.
     •	Use SFrames to do some feature engineering
     •	Train a logistic regression model to predict the sentiment of product reviews.
     •	Inspect the weights (coefficients) of a trained logistic regression model.
@@ -15,7 +15,7 @@
     •	Compute classification accuracy for the logistic regression model.
 
 
-    ## Logistic Regression with L2 regularization
+ ##### Logistic Regression with L2 regularization
     •	Extract features from Amazon product reviews.
     •	Convert an SFrame into a NumPy array.
     •	Write a function to compute the derivative of log likelihood function with an L2 penalty with respect to a single coefficient.
@@ -23,7 +23,7 @@
     •	Empirically explore how the L2 penalty can ameliorate overfitting.
 
 
-    ## Exploring precision and recall
+  ##### Exploring precision and recall
     •	Use Amazon review data in its entirety.
     •	Train a logistic regression model.
     •	Explore various evaluation metrics: accuracy, confusion matrix, precision, recall.
