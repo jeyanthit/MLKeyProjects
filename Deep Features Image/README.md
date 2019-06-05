@@ -6,9 +6,10 @@ In this project, we are going to build new image retrieval models and explore th
 
 ### Learning outcomes
 
-  •	Execute image retrieval code with the iPython notebook
-  •	Use the .sketch_summary() method to view statistics of data
-  •	Load and transform real, image data
-  •	Build image retrieval models using nearest neighbor search and deep features
-  •	Compare the results of various image retrieval models
-  •	Use the .apply() and .sum() methods on SFrames to compute functions of the data
+ 	•	Execute image retrieval code with the iPython notebook
+  
+•	Use the .sketch_summary() method to view statistics of data
+•	Load and transform real, image data
+•	Build image retrieval models using nearest neighbor search and deep features
+•	Compare the results of various image retrieval models
+•	Use the .apply() and .sum() methods on SFrames to compute functions of the data
