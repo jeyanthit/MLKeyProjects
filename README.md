@@ -1,4 +1,4 @@
-#  Machine Learning Key Projects
+#  Machine Learning Projects
 	Repository Name: MLKeyProjects 
 
 ## Cool Projects completed as part of Machine Learning:
