@@ -10,7 +10,7 @@
 	•	Identifying safe loans with decision trees
 	•	Modeling & Clustering text data with k-means
 
-#### Summary of all the above Key Projects, -  “Machine Learning Key Projects Summary” document can be found in “Docs” folder under this root folder 
+#### Docs under this root folder contains the Summary of all the above Key Projects [“Machine Learning Key Projects Summary”] (docs/Machine Learning Key Projects Summary.odt)
 
 #### Each Project has its own folder and each folder is structured as below:
 	    •	Code –  Source code for each project - consists of python files and any reference files.
