@@ -15,7 +15,7 @@
 
 #### Each Project has its own folder and each folder is structured as below:
 	    •	Code –  Source code for each project - consists of python files and any reference files.
-	    •	Data  - Data used in the project
+	    •	Data  - Data used in the project (Since the data files are huge, its uplaoded as .gl files)
 	    •	Docs -  Contains summary document for each project
 	    •	README.md
     
