@@ -1,4 +1,5 @@
-## Modeling text topics with Latent Dirichlet Allocation
+## Clustering Text Data
+#### Modeling text topics with Latent Dirichlet Allocation
 
 In many cases, it is good to think of data as belonging to more than one cluster or category. For example, if we have a model for text data that includes both "Politics" and "World News" categories, then an article about a recent meeting of the United Nations should have membership in both categories rather than being forced into just one.
 
