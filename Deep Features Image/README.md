@@ -13,3 +13,11 @@
     •	Build image retrieval models using nearest neighbor search and deep features
     •	Compare the results of various image retrieval models
     •	Use the .apply() and .sum() methods on SFrames to compute functions of the data
+
+
+## Fitting Gaussian Mixture Models with EM
+Also we will:
+     
+      •	implement the EM algorithm for a Gaussian mixture model
+      •	apply your implementation to cluster images
+      •	explore clustering results and interpret the output of the EM algorithm
