@@ -2,7 +2,7 @@
 
 	Repository Name: MLKeyProjects 
 
-## Cool Projects completed in Machine Learning:
+## Cool Projects completed:
 
 	•	Predicting house prices
 	•	Retrieving Wikipedia Articles. Choosing features and metrics for nearest neighbor search
