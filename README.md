@@ -1,4 +1,4 @@
-#  Data Science | Machine Learning Projects
+#  Data Science | Machine Learning - Projects
 
 	Repository Name: MLKeyProjects 
 
