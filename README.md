@@ -24,6 +24,8 @@
 		• Python
 		• scikit-learn
 		• matplotlib
+		• Pandas
+		• NumPy, SciPy, JSON files
 
  ### Contributors:
  
